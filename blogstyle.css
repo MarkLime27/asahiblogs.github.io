@@ -174,9 +174,9 @@ a {
   }
   
   header .logo-text {
-    margin: 0px;
+    margin: 10px;
     font-family: 'Candal', serif;
-    font-size: 45px;
+    font-size: relative;
     color:#005255;
   }
   
